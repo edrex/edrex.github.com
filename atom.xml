@@ -4,7 +4,7 @@
   <title><![CDATA[edrex homepage]]></title>
   <link href="http://edrex.github.com/atom.xml" rel="self"/>
   <link href="http://edrex.github.com/"/>
-  <updated>2013-04-07T13:13:56-07:00</updated>
+  <updated>2013-04-07T14:59:09-07:00</updated>
   <id>http://edrex.github.com/</id>
   <author>
     <name><![CDATA[Eric Drechsel]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Way Behind in SNA]]></title>
+    <link href="http://edrex.github.com/blog/2013/04/07/way-behind-in-sna/"/>
+    <updated>2013-04-07T13:17:00-07:00</updated>
+    <id>http://edrex.github.com/blog/2013/04/07/way-behind-in-sna</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[New Blog First Post]]></title>
