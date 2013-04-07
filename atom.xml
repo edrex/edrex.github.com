@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[edrex homepage]]></title>
+  <link href="http://edrex.github.com/atom.xml" rel="self"/>
+  <link href="http://edrex.github.com/"/>
+  <updated>2013-04-06T20:44:00-07:00</updated>
+  <id>http://edrex.github.com/</id>
+  <author>
+    <name><![CDATA[Eric Drechsel]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
