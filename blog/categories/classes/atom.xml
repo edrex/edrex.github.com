@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[edrex homepage]]></title>
-  <link href="http://edrex.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: classes | edrex homepage]]></title>
+  <link href="http://edrex.github.io/blog/categories/classes/atom.xml" rel="self"/>
   <link href="http://edrex.github.io/"/>
   <updated>2013-04-07T15:15:36-07:00</updated>
   <id>http://edrex.github.io/</id>
@@ -19,17 +19,6 @@
     <updated>2013-04-07T13:17:00-07:00</updated>
     <id>http://edrex.github.io/blog/2013/04/07/way-behind-in-sna</id>
     <content type="html"><![CDATA[
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[New Blog First Post]]></title>
-    <link href="http://edrex.github.io/blog/2013/04/06/first-post-on-jekyll-plus-octopress/"/>
-    <updated>2013-04-06T20:53:00-07:00</updated>
-    <id>http://edrex.github.io/blog/2013/04/06/first-post-on-jekyll-plus-octopress</id>
-    <content type="html"><![CDATA[<p>First Post Mega-Octocat GO!</p>
-
-<p><a href="http://octodex.github.com/megacat-2/"><img src="http://octodex.github.com/images/megacat-2.png" title="Megacat" alt="Megacat" /></a></p>
 ]]></content>
   </entry>
   

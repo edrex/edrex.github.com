@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://edrex.github.com/blog/2013/04/06/first-post-on-jekyll-plus-octopress/</loc>
+        <loc>http://edrex.github.io/blog/2013/04/06/first-post-on-jekyll-plus-octopress/</loc>
         <lastmod>2013-04-07T13:28:07-07:00</lastmod>
     </url>
     <url>
-        <loc>http://edrex.github.com/blog/2013/04/07/way-behind-in-sna/</loc>
-        <lastmod>2013-04-07T13:17:06-07:00</lastmod>
+        <loc>http://edrex.github.io/blog/2013/04/07/way-behind-in-sna/</loc>
+        <lastmod>2013-04-07T15:15:17-07:00</lastmod>
     </url>
     <url>
-        <loc>http://edrex.github.com/blog/archives/</loc>
-        <lastmod>2013-04-07T13:28:07-07:00</lastmod>
+        <loc>http://edrex.github.io/blog/archives/</loc>
+        <lastmod>2013-04-07T15:15:17-07:00</lastmod>
     </url>
     <url>
-        <loc>http://edrex.github.com/</loc>
-        <lastmod>2013-04-07T13:28:07-07:00</lastmod>
+        <loc>http://edrex.github.io/</loc>
+        <lastmod>2013-04-07T15:15:17-07:00</lastmod>
     </url>
     <url>
-        <loc>http://edrex.github.com/robots.txt</loc>
+        <loc>http://edrex.github.io/robots.txt</loc>
         <lastmod>2013-04-06T20:43:47-07:00</lastmod>
     </url>
 </urlset>

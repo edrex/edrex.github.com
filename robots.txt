@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://edrex.github.com/sitemap.xml 
+Sitemap: http://edrex.github.io/sitemap.xml 
