@@ -2,19 +2,27 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://edrex.github.io/blog/2013/04/06/first-post-on-jekyll-plus-octopress/</loc>
-        <lastmod>2013-04-07T13:28:07-07:00</lastmod>
+        <lastmod>2013-04-10T21:46:07-07:00</lastmod>
     </url>
     <url>
         <loc>http://edrex.github.io/blog/2013/04/07/way-behind-in-sna/</loc>
-        <lastmod>2013-04-07T15:15:17-07:00</lastmod>
+        <lastmod>2013-04-10T20:47:50-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://edrex.github.io/blog/2013/04/10/loss-rebirth-and-the-seasons/</loc>
+        <lastmod>2013-04-10T21:46:53-07:00</lastmod>
+    </url>
+    <url>
+        <loc>http://edrex.github.io/blog/2013/04/10/compositional-microcontent/</loc>
+        <lastmod>2013-04-10T22:47:16-07:00</lastmod>
     </url>
     <url>
         <loc>http://edrex.github.io/blog/archives/</loc>
-        <lastmod>2013-04-07T15:15:17-07:00</lastmod>
+        <lastmod>2013-04-10T22:47:16-07:00</lastmod>
     </url>
     <url>
         <loc>http://edrex.github.io/</loc>
-        <lastmod>2013-04-07T15:15:17-07:00</lastmod>
+        <lastmod>2013-04-10T22:47:16-07:00</lastmod>
     </url>
     <url>
         <loc>http://edrex.github.io/robots.txt</loc>

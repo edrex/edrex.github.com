@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[edrex homepage]]></title>
+  <title><![CDATA[French Pressicus-Technicalus]]></title>
   <link href="http://edrex.github.io/atom.xml" rel="self"/>
   <link href="http://edrex.github.io/"/>
-  <updated>2013-04-07T15:15:36-07:00</updated>
+  <updated>2013-04-19T18:43:41-07:00</updated>
   <id>http://edrex.github.io/</id>
   <author>
     <name><![CDATA[Eric Drechsel]]></name>
@@ -12,6 +12,69 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Compositional Microcontent]]></title>
+    <link href="http://edrex.github.io/blog/2013/04/10/compositional-microcontent/"/>
+    <updated>2013-04-10T21:44:00-07:00</updated>
+    <id>http://edrex.github.io/blog/2013/04/10/compositional-microcontent</id>
+    <content type="html"><![CDATA[<p>Applying compositional pattern to microcontent</p>
+
+<p>Imagine you are writing an entry for your journal. It might have a structure like this:</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+<span class='line-number'>2</span>
+<span class='line-number'>3</span>
+<span class='line-number'>4</span>
+<span class='line-number'>5</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Session
+</span><span class='line'>| -&gt; Idea
+</span><span class='line'>| -&gt; Drawing/Diagram
+</span><span class='line'>| -&gt; Text
+</span><span class='line'>| -&gt; Grouping</span></code></pre></td></tr></table></div></figure>
+
+
+<p>While this entry could be represented as a sequence of characters or bytes (and this is indeed a useful</p>
+
+<p>While the contents of the file are</p>
+
+<p>API
+Graph store
+Leif:
+Is there a VCS with range support?
+Imagining something like:</p>
+
+<p>graph store</p>
+
+<p>Node</p>
+
+<ul>
+<li>CRUD
+Session
+Idea
+Image
+&#8230;
+Grouping</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Loss, Rebirth, and the Seasons]]></title>
+    <link href="http://edrex.github.io/blog/2013/04/10/loss-rebirth-and-the-seasons/"/>
+    <updated>2013-04-10T19:36:00-07:00</updated>
+    <id>http://edrex.github.io/blog/2013/04/10/loss-rebirth-and-the-seasons</id>
+    <content type="html"><![CDATA[<pre><code>Loss, Rebirth, and the Seasons
+
+Finding sanctuary in the lee
+Thoughtful, conscious
+Taking time and
+taking action
+and crafting a life
+</code></pre>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Way Behind in SNA]]></title>
