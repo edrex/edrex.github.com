@@ -4,7 +4,7 @@
   <title><![CDATA[French Pressicus-Technicalus]]></title>
   <link href="http://edrex.github.io/atom.xml" rel="self"/>
   <link href="http://edrex.github.io/"/>
-  <updated>2013-04-19T18:43:41-07:00</updated>
+  <updated>2013-05-05T13:55:09-07:00</updated>
   <id>http://edrex.github.io/</id>
   <author>
     <name><![CDATA[Eric Drechsel]]></name>
@@ -14,13 +14,66 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Journal - Summer Preview Weekend]]></title>
+    <link href="http://edrex.github.io/blog/2013/04/27/journal-summer-preview-weekend/"/>
+    <updated>2013-04-27T12:47:00-07:00</updated>
+    <id>http://edrex.github.io/blog/2013/04/27/journal-summer-preview-weekend</id>
+    <content type="html"><![CDATA[<p>So much to talk about!</p>
+
+<ul>
+<li>pdxjs
+
+<ul>
+<li>after discussion bitcoin</li>
+<li>meteor</li>
+<li><a href="http://www.webrtc.org/">WebRTC</a></li>
+</ul>
+</li>
+<li>activate hub</li>
+<li>bike ride fun
+
+<ul>
+<li>evil patrick</li>
+<li>chrissy pdxtrees</li>
+</ul>
+</li>
+<li>pdxtrees</li>
+</ul>
+
+
+<h2>PDX.js</h2>
+
+<p>This month&#8217;s <a href="http://pdxjs.com/">Portland JavaScript Admirers</a> was at <a href="http://janrain.com/">Janrain</a> (where I work) for the first time.</p>
+
+<h3>Ember.js, Meteor, and Angular</h3>
+
+<p><a href="http://sitr.us/">Jesse Hallett</a> talked about his experiences trying out <a href="http://emberjs.com/">Ember</a>, interspersed by comments comparing the Ember approach to <a href="http://meteor.com/">Meteor</a>&#8217;s (from myself) or <a href="http://angularjs.org/">Angular</a> (from <a href="https://twitter.com/lucperkins">Luc Perkins</a>) revealing our current affiliations.</p>
+
+<p>My own response to Ember&#8217;s aim of making a more or less direct port of the Rails framework experience to the client is to barf up in my mouth a little bit.</p>
+
+<p><em>TODO: some highlights of the comparison</em></p>
+
+<p>Later the group retired to Bailey&#8217;s Taproom to sample the <a href="http://www.baileystaproom.com/?page_id=8">draft selections</a> and discuss the finer points of the Bitcoin protocol. I&#8217;ve previously shied away from Bitcoin for several reasons (the environmental impact of mining, and the fadness of it) but talking with Jesse et al that the Bitcoin network is a natural experiment in decentralized trust networks, and given my interest in that topic I should try to understand it.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Compositional Microcontent]]></title>
     <link href="http://edrex.github.io/blog/2013/04/10/compositional-microcontent/"/>
     <updated>2013-04-10T21:44:00-07:00</updated>
     <id>http://edrex.github.io/blog/2013/04/10/compositional-microcontent</id>
-    <content type="html"><![CDATA[<p>Applying compositional pattern to microcontent</p>
+    <content type="html"><![CDATA[<p>Applying compositional pattern to microcontent.</p>
 
-<p>Imagine you are writing an entry for your journal. It might have a structure like this:</p>
+<p>Imagine you are writing a journal entry, and think about the different ways you might represent the entry.</p>
+
+<ul>
+<li>As a sequence of bytes or characters.</li>
+<li>At a slightly higher level, as a sequence of words</li>
+</ul>
+
+
+<p>Microcontent markup provides a higher level
+It might have a structure like this:</p>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
 <span class='line-number'>2</span>
@@ -33,8 +86,6 @@
 </span><span class='line'>| -&gt; Text
 </span><span class='line'>| -&gt; Grouping</span></code></pre></td></tr></table></div></figure>
 
-
-<p>While this entry could be represented as a sequence of characters or bytes (and this is indeed a useful</p>
 
 <p>While the contents of the file are</p>
 
@@ -57,31 +108,6 @@ Image
 Grouping</li>
 </ul>
 
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Loss, Rebirth, and the Seasons]]></title>
-    <link href="http://edrex.github.io/blog/2013/04/10/loss-rebirth-and-the-seasons/"/>
-    <updated>2013-04-10T19:36:00-07:00</updated>
-    <id>http://edrex.github.io/blog/2013/04/10/loss-rebirth-and-the-seasons</id>
-    <content type="html"><![CDATA[<pre><code>Loss, Rebirth, and the Seasons
-
-Finding sanctuary in the lee
-Thoughtful, conscious
-Taking time and
-taking action
-and crafting a life
-</code></pre>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Way Behind in SNA]]></title>
-    <link href="http://edrex.github.io/blog/2013/04/07/way-behind-in-sna/"/>
-    <updated>2013-04-07T13:17:00-07:00</updated>
-    <id>http://edrex.github.io/blog/2013/04/07/way-behind-in-sna</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   

@@ -4,7 +4,7 @@
   <title><![CDATA[Category: graphs | French Pressicus-Technicalus]]></title>
   <link href="http://edrex.github.io/blog/categories/graphs/atom.xml" rel="self"/>
   <link href="http://edrex.github.io/"/>
-  <updated>2013-04-19T18:43:41-07:00</updated>
+  <updated>2013-05-05T13:55:09-07:00</updated>
   <id>http://edrex.github.io/</id>
   <author>
     <name><![CDATA[Eric Drechsel]]></name>
@@ -18,9 +18,18 @@
     <link href="http://edrex.github.io/blog/2013/04/10/compositional-microcontent/"/>
     <updated>2013-04-10T21:44:00-07:00</updated>
     <id>http://edrex.github.io/blog/2013/04/10/compositional-microcontent</id>
-    <content type="html"><![CDATA[<p>Applying compositional pattern to microcontent</p>
+    <content type="html"><![CDATA[<p>Applying compositional pattern to microcontent.</p>
 
-<p>Imagine you are writing an entry for your journal. It might have a structure like this:</p>
+<p>Imagine you are writing a journal entry, and think about the different ways you might represent the entry.</p>
+
+<ul>
+<li>As a sequence of bytes or characters.</li>
+<li>At a slightly higher level, as a sequence of words</li>
+</ul>
+
+
+<p>Microcontent markup provides a higher level
+It might have a structure like this:</p>
 
 <p><code>
 Session
@@ -29,8 +38,6 @@ Session
 | -&gt; Text
 | -&gt; Grouping
 </code></p>
-
-<p>While this entry could be represented as a sequence of characters or bytes (and this is indeed a useful</p>
 
 <p>While the contents of the file are</p>
 
